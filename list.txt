@@ -1,0 +1,8 @@
+Java
+Unix
+SQL
+Agile
+Docker
+Kubernetes
+GenAI
+Cloud
